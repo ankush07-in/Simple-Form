@@ -1,0 +1,45 @@
+body{
+    background-color: #e8f3f8;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: steelblue;
+}
+form{
+    margin: 20px auto;
+    width: 500px;
+    color: steelblue;    
+}
+input{
+    padding: 10px;
+    font-size: inherit;
+    margin-bottom: 10px;
+}
+input[type="text"],
+input[type="email"],
+input[type="password"]
+{
+    display: block;
+    margin-bottom: 25px;
+    width: 100%;
+    border: 2px solid steelblue;
+}
+input[type="radio"]
+{
+    margin: 0 10px 30px 22px;
+    padding: 40px
+    line-height;
+    margin-left: 75px;
+}
+input[type="submit"]
+{
+    background-color: steelblue;
+    color: white;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 2px;
+    font-size: inherit;
+    width: 525px;
+    height: 45px;
+}
