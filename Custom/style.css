@@ -28,8 +28,8 @@ input[type="password"]
 input[type="radio"]
 {
     margin: 0 10px 30px 22px;
-    padding: 40px
-    line-height;
+    padding: 40px;
+    line-height: 2px;
     margin-left: 75px;
 }
 input[type="submit"]
